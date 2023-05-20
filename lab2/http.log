@@ -1,0 +1,65 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#fields	value.id.orig_h	value.id.resp_h	value.id.resp_p	value.method	value.host	value.uri	count
+#types	addr	addr	port	string	string	string	count
+192.168.1.69	35.232.111.17	80	GET	connectivity-check.ubuntu.com	/	1
+192.168.1.69	104.18.21.226	80	GET	ocsp.globalsign.com	/gsrsaovsslca2018/ME0wSzBJMEcwRTAJBgUrDgMCGgUABBRrcGT+anRD3C1tW3nsrKeuXC7DPwQU+O9/8s14Z6jeb48kjYjxhwMCs+sCDEM6dYlB7stkvHDg1Q==	1
+192.168.1.69	104.18.21.226	80	GET	ocsp.globalsign.com	/gsrsaovsslca2018/ME0wSzBJMEcwRTAJBgUrDgMCGgUABBRrcGT+anRD3C1tW3nsrKeuXC7DPwQU+O9/8s14Z6jeb48kjYjxhwMCs+sCDE1p+HOKfLj8iH/3BQ==	1
+192.168.1.69	104.18.21.226	80	GET	ocsp.globalsign.com	/gseccovsslca2018/ME0wSzBJMEcwRTAJBgUrDgMCGgUABBSTMjK03nNiYoQYvu4Izyfn9OJNdAQUWHuOdSr+YYCqkEABrtboB0ZuP0gCDDyIluI+EKOPLg7Vcw==	1
+192.168.1.69	104.18.21.226	80	GET	ocsp.globalsign.com	/gsrsaovsslca2018/ME0wSzBJMEcwRTAJBgUrDgMCGgUABBRrcGT+anRD3C1tW3nsrKeuXC7DPwQU+O9/8s14Z6jeb48kjYjxhwMCs+sCDEBhsyt/fnG6sCUOGg==	1
+192.168.1.69	104.18.21.226	80	GET	ocsp.globalsign.com	/gsrsaovsslca2018/ME0wSzBJMEcwRTAJBgUrDgMCGgUABBRrcGT+anRD3C1tW3nsrKeuXC7DPwQU+O9/8s14Z6jeb48kjYjxhwMCs+sCDAblA+vHKQPD8PNahw==	1
+192.168.1.69	104.18.21.226	80	GET	ocsp.globalsign.com	/gsrsaovsslca2018/ME0wSzBJMEcwRTAJBgUrDgMCGgUABBRrcGT+anRD3C1tW3nsrKeuXC7DPwQU+O9/8s14Z6jeb48kjYjxhwMCs+sCDFRuucMj4lRzKEeRRg==	1
+192.168.1.69	104.18.21.226	80	GET	ocsp.globalsign.com	/gsrsaovsslca2018/ME0wSzBJMEcwRTAJBgUrDgMCGgUABBRrcGT+anRD3C1tW3nsrKeuXC7DPwQU+O9/8s14Z6jeb48kjYjxhwMCs+sCDDPHDSaHDKuTHs+BkA==	1
+192.168.1.69	104.18.21.226	80	GET	ocsp.globalsign.com	/gseccovsslca2018/ME0wSzBJMEcwRTAJBgUrDgMCGgUABBSTMjK03nNiYoQYvu4Izyfn9OJNdAQUWHuOdSr+YYCqkEABrtboB0ZuP0gCDDrEBwe9JeBYRXn/Bw==	1
+192.168.1.69	104.18.21.226	80	GET	ocsp.globalsign.com	/gsrsaovsslca2018/ME0wSzBJMEcwRTAJBgUrDgMCGgUABBRrcGT+anRD3C1tW3nsrKeuXC7DPwQU+O9/8s14Z6jeb48kjYjxhwMCs+sCDGZCcM3Js3Ln/JVkYw==	1
+192.168.1.69	104.18.21.226	80	GET	ocsp.globalsign.com	/gsrsaovsslca2018/ME0wSzBJMEcwRTAJBgUrDgMCGgUABBRrcGT+anRD3C1tW3nsrKeuXC7DPwQU+O9/8s14Z6jeb48kjYjxhwMCs+sCDCwNzlLCCqHyTzeVqg==	1
+192.168.1.69	104.18.21.226	80	GET	ocsp.globalsign.com	/gsrsaovsslca2018/ME0wSzBJMEcwRTAJBgUrDgMCGgUABBRrcGT+anRD3C1tW3nsrKeuXC7DPwQU+O9/8s14Z6jeb48kjYjxhwMCs+sCDC5YXZQJd91Lhc4bjA==	1
+192.168.1.69	91.105.192.100	80	POST	91.105.192.100	/api	7
+192.168.1.69	104.18.21.226	80	POST	ocsp.globalsign.com	/gsgccr3dvtlsca2020	1
+192.168.1.69	104.18.20.226	80	POST	ocsp2.globalsign.com	/gsorganizationvalsha2g2	1
+192.168.1.69	104.18.21.226	80	POST	ocsp.globalsign.com	/gsrsaovsslca2018	3
+192.168.1.69	34.107.221.82	80	GET	detectportal.firefox.com	/success.txt?ipv4	1
+192.168.1.69	34.107.221.82	80	GET	detectportal.firefox.com	/canonical.html	1
+192.168.1.69	104.18.20.226	80	POST	ocsp2.globalsign.com	/gsorganizationvalsha2g2	2
+192.168.1.69	104.18.32.68	80	POST	ocsp.usertrust.com	/	1
+192.168.1.69	192.229.221.95	80	POST	ocsp.digicert.com	/	2
+192.168.1.69	104.18.21.226	80	POST	ocsp.globalsign.com	/gsrsaovsslca2018	1
+192.168.1.69	192.229.221.95	80	POST	status.geotrust.com	/	2
+192.168.1.69	192.229.221.95	80	POST	ocsp.digicert.com	/	1
+192.168.1.69	64.233.164.94	80	POST	ocsp.pki.goog	/gts1c3	1
+192.168.1.69	104.18.20.226	80	POST	ocsp2.globalsign.com	/gsalphasha2g2	1
+192.168.1.69	192.229.221.95	80	POST	ocsp.digicert.com	/	1
+192.168.1.69	64.233.164.94	80	POST	ocsp.pki.goog	/gts1c3	1
+192.168.1.69	104.18.21.226	80	POST	ocsp.globalsign.com	/gseccovsslca2018	4
+192.168.1.69	104.18.21.226	80	POST	ocsp.globalsign.com	/gsrsaovsslca2018	2
+192.168.1.69	104.18.21.226	80	POST	ocsp.globalsign.com	/gseccovsslca2018	2
+192.168.1.69	104.18.21.226	80	POST	ocsp.globalsign.com	/gsrsaovsslca2018	5
+192.168.1.69	104.18.21.226	80	POST	ocsp.globalsign.com	/gseccovsslca2018	1
+192.168.1.69	104.18.21.226	80	POST	ocsp.globalsign.com	/gsrsaovsslca2018	7
+192.168.1.69	64.233.164.94	80	POST	ocsp.pki.goog	/gts1c3	7
+192.168.1.69	192.229.221.95	80	POST	ocsp.digicert.com	/	4
+192.168.1.69	2.16.106.208	80	GET	ciscobinary.openh264.org	/openh264-linux64-2e1774ab6dc6c43debb0b5b628bdf122a391d521.zip	1
+192.168.1.69	192.229.221.95	80	POST	ocsp.digicert.com	/	1
+192.168.1.69	128.75.237.145	80	POST	r3.o.lencr.org	/	1
+192.168.1.69	128.75.237.163	80	POST	r3.o.lencr.org	/	1
+192.168.1.69	128.75.237.145	80	POST	r3.o.lencr.org	/	1
+192.168.1.69	128.75.237.145	80	GET	r3.o.lencr.org	/MFMwUTBPME0wSzAJBgUrDgMCGgUABBRI2smg+yvTLU/w3mjS9We3NfmzxAQUFC6zF7dYVsuuUAlA5h+vnYsUwsYCEgSfogOgnL4jJ4Fn6vNh08FAbw==	1
+192.168.1.69	128.75.237.163	80	POST	r3.o.lencr.org	/	1
+192.168.1.69	128.75.237.147	80	POST	r3.o.lencr.org	/	1
+192.168.1.69	128.75.237.145	80	POST	r3.o.lencr.org	/	2
+192.168.1.69	192.229.221.95	80	POST	ocsp.digicert.com	/	1
+192.168.1.69	128.75.237.145	80	POST	r3.o.lencr.org	/	1
+192.168.1.69	128.75.237.145	80	GET	r3.o.lencr.org	/MFMwUTBPME0wSzAJBgUrDgMCGgUABBRI2smg+yvTLU/w3mjS9We3NfmzxAQUFC6zF7dYVsuuUAlA5h+vnYsUwsYCEgRpE0IGvlqQI1sP1cYQJofXdw==	1
+192.168.1.69	192.229.221.95	80	POST	ocsp.digicert.com	/	4
+192.168.1.69	128.75.237.145	80	POST	r3.o.lencr.org	/	2
+192.168.1.69	34.107.221.82	80	GET	detectportal.firefox.com	/success.txt?ipv4	1
+192.168.1.69	192.229.221.95	80	POST	ocsp.digicert.com	/	1
+192.168.1.69	34.107.221.82	80	GET	detectportal.firefox.com	/canonical.html	1
+192.168.1.69	91.105.192.100	80	POST	91.105.192.100	/api	7
+192.168.1.69	91.189.91.48	80	GET	connectivity-check.ubuntu.com	/	1
+192.168.1.69	91.105.192.100	80	POST	91.105.192.100	/api	7
+192.168.1.69	185.125.190.18	80	GET	connectivity-check.ubuntu.com	/	1
+192.168.1.69	34.122.121.32	80	GET	connectivity-check.ubuntu.com	/	1
+192.168.1.69	91.105.192.100	80	POST	91.105.192.100	/api	6
