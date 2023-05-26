@@ -9,7 +9,7 @@
 
 Был создан сайт с использованием Quarto и Github Pages:
 
- https://lapusikov.github.io/quarto_site/
+ 
 
 ## Выводы
 
