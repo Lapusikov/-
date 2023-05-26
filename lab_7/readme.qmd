@@ -1,6 +1,6 @@
 ---
 title: "Создание Static web page"
-author: Лаптинский Дмитрий
+author: 
 format: 
     md:
         output-file: README.md
@@ -15,7 +15,7 @@ engine: knitr
 
 Был создан сайт с использованием Quarto и Github Pages:
 
- https://lapusikov.github.io/quarto_site/
+
 
 ## Выводы
 
